@@ -10,9 +10,5 @@ From this analysis, we found that overall stock performance was better in 2017 t
 
 <img width="414" alt="2018" src="https://user-images.githubusercontent.com/107032720/197337129-80a978c2-e15a-4cdf-a699-bf571275a29c.png">
 
-<img width="270" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/107032720/197337146-ff725a79-6d04-4dbd-8571-5c2f9a162461.png">
-
-<img width="275" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/107032720/197337150-a0e7cf23-d5d8-4f70-9b47-e6957177013e.png">
-
 ## Summary
 In conclusion, a worthwhile advantage of refactoring code is faster execution times while a disadvantage may be that it could be time consuming. We see this advantage and disadvantage in this instance - it took more time to go back and refactor the code. However, this refactor ultimately resulted in faster execution times.
